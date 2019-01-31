@@ -105,3 +105,7 @@ Stretch Goals / Further Practice
 Instead of updating the count on submit, create a link that updates the count on demand
 Use multiple fields in your form to update multiple state properties
 Make evaluations on the state of your state to dynamically render things. For example, if the name is empty, show an error or if there are 2 names given (first and last), reverse and comma separate them.
+
+## UML
+![](./assets/uml1.jpg)
+![](./assets/uml2.jpg)
